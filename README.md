@@ -3,6 +3,8 @@
 Analytics & Data Science Winter 2020 Term Project 
 Team: Tenzing Rither, Aster Devi, Colin Gregory
 
+Topic Presentation (in class Tuesday February 12)
+https://docs.google.com/presentation/d/1rDfWATCnQXHaceZEaLcBPOkxIRwhyvPZkLpKkpwL4BY/
 
 Goal 
 
